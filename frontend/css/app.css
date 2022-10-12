@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    a {
+        @apply text-sky-600;
+    }
+
+    body {
+        @apply text-stone-900;
+    }
+}
+
